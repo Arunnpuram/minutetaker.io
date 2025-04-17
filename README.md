@@ -1,6 +1,6 @@
 ## MinuteTaker.io
 
-We've enhanced MinuteTaker.io with several powerful features to make your meeting management more efficient while maintaining complete privacy and offline functionality.
+I have enhanced MinuteTaker.io with several powerful features to make your meeting management more efficient while maintaining complete privacy and offline functionality.
 
 ## 📝 Multiple Meeting Support
 
